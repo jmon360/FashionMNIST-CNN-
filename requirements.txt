@@ -11,4 +11,4 @@ torch & torchvision: Model, training, dataset
 
 matplotlib: Accuracy plots
 
-pandas: Storing and organizing results for visualizatio
+pandas: Storing and organizing results for visualization
