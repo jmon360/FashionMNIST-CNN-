@@ -62,7 +62,7 @@ How to plot performance metrics in a way that tells a visual story
 How to save model checkpoints for repeatability and modular reuse
 
 🛠️ Technical Highlights
-Written in Python 3.x using PyTorch and TorchVision
+Written in Python 3.13 using PyTorch and TorchVision
 
 Compatible with CUDA GPUs and CPU fallback
 
